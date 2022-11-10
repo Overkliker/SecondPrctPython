@@ -1,7 +1,4 @@
-from collections import Counter
-
-
-l1 = [('b', 'b', 'a', 1), ('a', 'a', 'a', 21)]
+l1 = [('b', 'b', 'b', 1), ('a', 'b', 'a', 21)]
 
 mx = 0
 al = ''

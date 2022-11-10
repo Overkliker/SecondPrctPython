@@ -9,4 +9,4 @@ while (flag):
         break
 
 
-print('\n'.join(map(lambda x: str(x), sorted(l1))))
+print('\t'.join(map(lambda x: str(x), sorted(l1))))
